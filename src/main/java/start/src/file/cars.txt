@@ -1,0 +1,5 @@
+All Cars
+CarID:1; TrainID:1; Seats number:50; ComfortClass:Seating; Pessenger number38; Cargo amount30;
+-----------------------------------------------------------------------------------------------------CarID:2; TrainID:1; Seats number:30; ComfortClass:First class; Pessenger number22; Cargo amount30;
+-----------------------------------------------------------------------------------------------------CarID:11; TrainID:1; Seats number:11; ComfortClass:Seating; Pessenger number1; Cargo amount1;
+-----------------------------------------------------------------------------------------------------
