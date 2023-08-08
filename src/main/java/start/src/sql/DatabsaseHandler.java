@@ -1,10 +1,9 @@
 package start.src.sql;
 
 import start.src.file.AddToFile;
-import start.src.menu.TrainService;
-import start.src.object.Car;
-import start.src.object.ComfortRating;
-import start.src.object.Train;
+import start.src.entity.Car;
+import start.src.entity.ComfortRating;
+import start.src.entity.Train;
 
 import java.sql.*;
 import java.time.LocalDateTime;

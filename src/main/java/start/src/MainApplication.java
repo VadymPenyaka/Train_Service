@@ -15,8 +15,8 @@ public class MainApplication extends Application {
         try {
             Parent root = FXMLLoader.load(getClass().getResource("mainWindow.fxml"));
             Scene scene = new Scene(root);
-            stage.setWidth(600);
-            stage.setHeight(400);
+            stage.setWidth(900);
+            stage.setHeight(600);
             stage.setFullScreen(false);
             stage.setTitle("Train Service");
             stage.setScene(scene);

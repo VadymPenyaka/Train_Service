@@ -6,7 +6,6 @@ import java.time.*;
 import java.time.format.DateTimeFormatter;
 import java.time.format.DateTimeParseException;
 import java.util.ResourceBundle;
-import java.util.TimeZone;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Button;
@@ -15,7 +14,7 @@ import javafx.scene.control.TextField;
 import javafx.scene.layout.VBox;
 import javafx.stage.Stage;
 import start.src.menu.TrainService;
-import start.src.object.Train;
+import start.src.entity.Train;
 import start.src.sql.DatabsaseHandler;
 
 public class CreateTrainController{

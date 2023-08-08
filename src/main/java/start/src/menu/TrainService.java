@@ -7,7 +7,7 @@ import javafx.stage.Stage;
 import start.src.controller.*;
 
 import start.src.file.*;
-import start.src.object.*;
+import start.src.entity.*;
 
 import java.io.IOException;
 import java.util.HashMap;
@@ -19,7 +19,7 @@ public class TrainService{
     public static Map<Integer, Train> trains = new HashMap<>();
     public static Map<Integer, Car> cars = new HashMap<>();
 
-    public static AddToFile trainsFile = new AddToFile("trains");
+    public static AddToFile trainsFile = new AddToFile("trains");//check
     public static AddToFile carsFile = new AddToFile("cars");
     public static AddToFile actionsFile = new AddToFile("actions");
     private static String tmpStr;

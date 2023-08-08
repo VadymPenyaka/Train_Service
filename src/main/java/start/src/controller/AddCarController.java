@@ -13,8 +13,8 @@ import javafx.scene.control.TextField;
 import javafx.scene.layout.VBox;
 import javafx.stage.Stage;
 import start.src.menu.TrainService;
-import start.src.object.Car;
-import start.src.object.ComfortRating;
+import start.src.entity.Car;
+import start.src.entity.ComfortRating;
 import start.src.sql.DatabsaseHandler;
 
 

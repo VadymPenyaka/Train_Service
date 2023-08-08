@@ -1,4 +1,4 @@
-package start.src.object;
+package start.src.entity;
 
 public enum ComfortRating {
     SEATING("Seating", 0), SECONDCLASS("Second class", 1), FIRSTCLASS("First class", 2), LUXE("Luxe", 3);

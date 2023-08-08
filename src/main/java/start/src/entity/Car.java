@@ -1,4 +1,4 @@
-package start.src.object;
+package start.src.entity;
 
 public class Car {
     private final int carNumber;
